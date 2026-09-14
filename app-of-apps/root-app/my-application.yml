@@ -11,7 +11,7 @@ spec:
   # The project the application belongs to.
   project: default
 
-  # Source of the application manifests
+  # Source of the application manifests - ash
   source:
     repoURL: https://github.com/asheaton/gitops-cert-level-2-examples.git
     targetRevision: HEAD
